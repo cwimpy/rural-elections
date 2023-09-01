@@ -1,0 +1,65 @@
+﻿fips,state,county,rucc,website,website additonal,Election Results,Early Voting,Absentee Voting,Overseas Voting,Military Voting,Address Change,Poll Worker Application,Candidate Information,Election Schedule,Felon-restoration of voting rights,Sample Ballot,Track Vote By Mail,Polling Place Locations/Find your precinct,Voter ID/requirements,Voter Registration,Voter Registration Cancellation,Check Voter Registration Status,Signature Cure Form
+22001,LA,Acadia Parish,2,https://acadiaparishclerk.com/,,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+22003,LA,Allen Parish,6,https://www.allenparishclerk.org/#!/home,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22005,LA,Ascension Parish,2,http://www.ascensionclerk.com/,,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0
+22007,LA,Assumption Parish,6,https://assumptionclerk.com/,https://www.assumptionla.com/,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0
+22009,LA,Avoyelles Parish,6,https://avoyellesparishclerkofcourt.com/,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22011,LA,Beauregard Parish,6,https://www.beauregardclerk.org/,,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0
+22013,LA,Bienville Parish,6,https://clerk.bienvilleparish.org/,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+22015,LA,Bossier Parish,2,https://www.bossierclerk.com/#!/home,,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+22017,LA,Caddo Parish,2,http://www.caddo.org/,http://www.caddoclerk.com/,1,1,1,0,0,0,1,1,1,0,1,0,1,0,0,1,0,0
+22019,LA,Calcasieu Parish,3,https://www.calclerkofcourt.com/,,1,1,1,0,0,0,1,1,1,0,1,0,1,0,1,0,0,0
+22021,LA,Caldwell Parish,8,http://www.caldwellclerk.org/,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22023,LA,Cameron Parish,3,https://www.cameronparishcoc2.com/,,1,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0
+22025,LA,Catahoula Parish,9,https://catahoulaclerk.com/,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22027,LA,Claiborne Parish,6,https://www.claiborneclerk.org/,,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+22029,LA,Concordia Parish,7,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22031,LA,De Soto Parish,2,https://desotoparishclerk.org/,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22033,LA,East Baton Rouge Parish,2,https://ebrclerkofcourt.org/,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+22035,LA,East Carroll Parish,7,http://www.eastcarrollclerk.com/,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22037,LA,East Feliciana Parish,2,https://www.eastfelicianaclerk.org/,,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+22039,LA,Evangeline Parish,6,https://www.evangelineparishclerkofcourt.com/,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22041,LA,Franklin Parish,7,https://www.franklinparishclerkofcourt.com/,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+22043,LA,Grant Parish,3,https://www.grantparishclerkofcourt.com/#!/home,,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+22045,LA,Iberia Parish,2,http://iberiaparishgovernment.com/,https://www.iberiaclerk.com/,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0
+22047,LA,Iberville Parish,2,https://ibervilleclerk.com/,,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+22049,LA,Jackson Parish,6,https://www.jacksonparishclerk.org/,,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+22051,LA,Jefferson Parish,1,https://www.jeffparish.net/,https://www.jpclerkofcourt.us/,1,1,1,0,0,0,1,1,1,0,1,0,1,1,1,0,0,0
+22053,LA,Jefferson Davis Parish,6,https://www.jeffdavisclerk.org/,,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+22055,LA,Lafayette Parish,2,https://www.lpclerk.com/,,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+22057,LA,Lafourche Parish,3,https://lafourcheclerk.com/,,1,1,1,0,0,0,1,0,1,0,1,0,1,0,1,0,0,0
+22059,LA,La Salle Parish,6,http://www.lasalleclerk.com/,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22061,LA,Lincoln Parish,4,https://www.lincolnparish.org/,,1,1,1,1,1,1,0,0,1,0,0,1,0,1,1,1,0,**
+22063,LA,Livingston Parish,2,https://www.livclerk.org/,,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+22065,LA,Madison Parish,7,http://www.madisonparish.org/,https://madisonparishclerk.com/,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+22067,LA,Morehouse Parish,6,https://morehouseclerkofcourt.com/,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+22069,LA,Natchitoches Parish,6,https://npclerkofcourt.org/,,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0
+22071,LA,Orleans Parish,1,https://nola.gov/next/home/,,1,1,1,1,1,1,0,1,1,0,1,0,1,1,1,0,0,0
+22073,LA,Ouachita Parish,3,https://www.opclerkofcourt.com/#!/home,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+22075,LA,Plaquemines Parish,1,https://clerk25th.com/,,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,1,0
+22077,LA,Pointe Coupee Parish,2,https://pcparish.org/,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22079,LA,Rapides Parish,3,https://www.rapidesclerk.org/,,1,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0
+22081,LA,Red River Parish,8,https://redriverclerk.com/,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+22083,LA,Richland Parish,6,https://www.richlandparishclerk.com/#!/home,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+22085,LA,Sabine Parish,6,https://sabineparishclerk.com/,,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+22087,LA,St. Bernard Parish,1,http://stbclerk.com/,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22089,LA,St. Charles Parish,1,https://www.stcharlesparish.gov/,https://www.scpclerkofcourt.com/,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,0
+22091,LA,St. Helena Parish,2,http://www.sthelenaclerk.org/,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22093,LA,St. James Parish,1,https://www.stjamesclerk.com/,,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+22095,LA,St. John the Baptist Parish,1,https://www.sjbparish.gov/,https://stjohnclerkonline.org/,1,1,1,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0
+22097,LA,St. Landry Parish,4,https://stlandry.org/,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22099,LA,St. Martin Parish,2,https://www.smpcoc2.com/,,1,1,0,0,0,0,1,0,1,0,1,0,1,0,0,0,1,0
+22101,LA,St. Mary Parish,4,https://stmaryparishclerkofcourt.com/,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+22103,LA,St. Tammany Parish,1,https://www.stprov.org/,https://www.sttammanyclerk.org/,1,1,1,1,1,0,1,1,1,0,1,0,1,0,1,0,0,0
+22105,LA,Tangipahoa Parish,3,https://tangivotes.com/,https://www.tangiclerk.org/,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,0,0
+22107,LA,Tensas Parish,9,http://www.tensasclerk.org/,,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+22109,LA,Terrebonne Parish,3,https://www.tpcg.org/index.php,https://terrebonneclerk.org/,1,0,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0
+22111,LA,Union Parish,3,https://www.upclerk.com/,,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+22113,LA,Vermilion Parish,2,https://www.vermilionclerk.com/,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+22115,LA,Vernon Parish,5,https://vernonparishcoc.com/,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22117,LA,Washington Parish,6,https://washingtonparishclerk.org/,,1,1,0,0,0,0,1,0,1,0,1,0,1,1,0,0,0,0
+22119,LA,Webster Parish,2,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22121,LA,West Baton Rouge Parish,2,https://wbrparish.org/,https://www.wbrclerk.org/,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,1,0,0
+22123,LA,West Carroll Parish,9,https://www.westcarrollclerk.org/,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+22125,LA,West Feliciana Parish,2,https://westfelicianaclerkofcourt.org/,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+22127,LA,Winn Parish,6,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

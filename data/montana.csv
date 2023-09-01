@@ -1,0 +1,104 @@
+﻿fips,state,county,rucc,website,website additonal,Election Results,Early Voting,Absentee Voting,Overseas Voting,Military Voting,Address Change,Poll Worker Application,Candidate Information,Election Schedule,Felon-restoration of voting rights,Sample Ballot,Track Vote By Mail,Polling Place Locations/Find your precinct,Voter ID/requirements,Voter Registration,Voter Registration Cancellation,Check Voter Registration Status,Signature Cure Form
+30001,MT,Beaverhead County,7,https://beaverheadcounty.org/,,1,0,1,1,1,0,0,1,1,1,1,0,1,1,1,1,0,0
+30003,MT,Big Horn County,6,https://www.bighorncountymt.gov/,,1,0,1,1,1,0,0,1,0,0,0,0,1,0,1,0,0,0
+30005,MT,Blaine County,9,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30007,MT,Broadwater County,9,https://www.broadwatercountymt.com/,,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,1
+30009,MT,Carbon County,3,https://co.carbon.mt.us/,,1,0,1,1,1,0,1,1,1,0,1,1,1,0,1,0,1,0
+30011,MT,Carter County,9,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30013,MT,Cascade County,3,https://www.cascadecountymt.gov/,,0,0,1,1,1,0,1,1,1,0,0,0,0,0,1,0,1,0
+30015,MT,Chouteau County,8,https://co.chouteau.mt.us/index.htm,,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0
+30017,MT,Custer County,7,https://custercountymt.com/,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+30019,MT,Daniels County,9,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30021,MT,Dawson County,7,https://www.dawsoncountymontana.com/,,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0
+30023,MT,Deer Lodge County,7,https://www.adlc.us/,,0,0,1,1,1,0,1,0,0,0,0,0,1,0,1,0,1,0
+30025,MT,Fallon County,9,https://www.falloncounty.net/,,0,0,1,1,0,0,0,0,0,1,1,0,1,1,1,0,1,0
+30027,MT,Fergus County,7,https://www.co.fergus.mt.us/,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+30029,MT,Flathead County,5,https://flathead.mt.gov/,,1,0,1,0,0,1,1,1,0,0,0,0,1,0,1,0,1,0
+30031,MT,Gallatin County,5,https://gallatincomt.virtualtownhall.net/,,1,0,1,1,1,0,1,1,1,0,1,1,0,0,1,1,0,1
+30033,MT,Garfield County,9,https://www.garfieldco.us/index.html,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+30035,MT,Glacier County,7,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30037,MT,Golden Valley County,3,https://www.goldenvalleycountymt.org/,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+30039,MT,Granite County,8,https://www.granitecountymt.us/,,0,0,1,1,1,0,0,1,1,0,0,0,1,0,1,0,0,0
+30041,MT,Hill County,7,https://hillcounty.us/,,0,0,1,1,1,0,1,1,0,1,1,1,1,1,1,1,0,0
+30043,MT,Jefferson County,9,https://jeffersoncounty-mt.gov/,,1,0,1,1,1,0,0,0,1,0,1,1,1,0,1,1,0,1
+30045,MT,Judith Basin County,8,http://www.jbcounty.org/,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+30047,MT,Lake County,6,https://www.lakemt.gov/,,1,0,1,1,1,1,1,1,1,0,1,0,1,0,0,0,1,0
+30049,MT,Lewis and Clark County,5,https://www.lccountymt.gov/home.html,,1,0,1,0,0,0,1,0,0,0,1,1,1,0,1,1,1,0
+30051,MT,Liberty County,9,http://co.liberty.mt.us/,,1,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0
+30053,MT,Lincoln County,7,https://lincolncountymt.us/,,1,1,1,1,1,1,1,1,0,0,1,0,1,1,1,0,1,0
+30055,MT,McCone County,9,https://mcconecountymt.com/,,1,0,1,0,0,0,1,1,1,0,0,0,1,1,1,0,0,0
+30057,MT,Madison County,9,https://madisoncountymt.gov/,,1,0,1,1,1,1,0,0,0,1,1,1,1,1,1,0,1,0
+30059,MT,Meagher County,9,https://www.meagherco.com/,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+30061,MT,Mineral County,8,https://co.mineral.mt.us/,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+30063,MT,Missoula County,3,https://www.missoulacounty.us/,,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0
+30065,MT,Musselshell County,8,https://musselshellcounty.org/,,1,0,1,0,0,0,1,1,1,0,0,0,1,1,1,0,0,0
+30067,MT,Park County,7,https://www.parkcounty.org/,,1,0,1,1,1,0,1,0,1,0,1,1,1,0,1,0,0,0
+30069,MT,Petroleum County,9,https://petroleumcountymt.org/,,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+30071,MT,Phillips County,9,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30073,MT,Pondera County,7,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30075,MT,Powder River County,9,https://prco.mt.gov/,,1,0,1,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0
+30077,MT,Powell County,6,https://www.powellcountymt.gov/,,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+30079,MT,Prairie County,9,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30081,MT,Ravalli County,6,https://ravalli.us/,,1,0,1,1,1,0,1,0,0,0,1,1,1,1,1,0,1,0
+30083,MT,Richland County,7,https://www.richland.org/,,1,0,1,0,1,0,0,1,0,0,0,0,1,0,1,0,0,0
+30085,MT,Roosevelt County,7,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30087,MT,Rosebud County,9,https://rosebudcountymt.gov/,,1,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0
+30089,MT,Sanders County,8,https://co.sanders.mt.us/,,1,0,1,1,1,1,0,1,1,0,1,0,1,0,1,0,0,0
+30091,MT,Sheridan County,9,https://www.sheridancountymt.org/,,1,0,1,0,0,0,1,0,0,0,1,1,1,0,1,0,0,0
+30093,MT,Silver Bow County,5,https://www.co.silverbow.mt.us/,,1,0,1,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0
+30095,MT,Stillwater County,8,https://www.stillwatercountymt.gov/,,0,0,1,1,1,0,0,0,1,1,0,0,1,1,1,0,0,0
+30097,MT,Sweet Grass County,9,https://sweetgrasscountygov.com/,,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+30099,MT,Teton County,8,https://tetoncomt.org/,,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0
+30101,MT,Toole County,7,https://www.toolecountymt.gov/,,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0
+30103,MT,Treasure County,8,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30105,MT,Valley County,7,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30107,MT,Wheatland County,9,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30109,MT,Wibaux County,9,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30111,MT,Yellowstone County,3,https://www.yellowstonecountymt.gov/,,1,0,1,1,1,0,1,1,1,0,1,0,1,0,1,0,1,0
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,

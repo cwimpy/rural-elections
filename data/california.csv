@@ -1,0 +1,59 @@
+fips,state,county,rucc,website,website additonal,Election Results,Early Voting,Absentee Voting,Overseas Voting,Military Voting,Address Change,Poll Worker Application,Candidate Information,Election Schedule,Felon-restoration of voting rights,Sample Ballot,Track Vote By Mail,Polling Place Locations/Find your precinct,Voter ID/requirements,Voter Registration,Voter Registration Cancellation,Check Voter Registration Status,Signature Cure Form
+6001,CA,Alameda County,1,http://www.acgov.org/,https://www.acvote.org/,1,0,1,1,1,0,1,1,1,0,0,1,1,0,1,0,1,0
+6003,CA,Alpine County,8,http://www.alpinecountyca.gov/,,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+6005,CA,Amador County,6,https://www.amadorgov.org/,,1,0,1,1,1,1,1,0,1,0,0,1,1,0,1,0,1,0
+6007,CA,Butte County,3,https://www.buttecounty.net/,https://buttevotes.net/,1,0,1,0,0,0,0,0,1,1,0,1,1,0,1,0,1,1
+6009,CA,Calaveras County,6,https://www.calaverasgov.us/,,1,0,1,1,1,0,1,1,0,0,1,1,1,0,1,0,0,0
+6011,CA,Colusa County,6,https://www.countyofcolusa.org/,,1,0,1,1,1,1,0,0,0,0,1,1,1,0,1,0,1,1
+6013,CA,Contra Costa County,1,https://www.contracosta.ca.gov/,,1,1,1,0,0,0,1,1,0,0,0,0,1,0,1,0,1,0
+6015,CA,Del Norte County,7,https://www.co.del-norte.ca.us/,,1,0,1,0,0,0,0,0,1,0,1,1,1,0,1,1,1,0
+6017,CA,El Dorado County,1,https://www.edcgov.us/,,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0
+6019,CA,Fresno County,2,https://www.co.fresno.ca.us/,,1,0,1,1,1,0,0,0,0,0,1,1,1,0,1,0,1,0
+6021,CA,Glenn County,6,https://www.countyofglenn.net/,,1,0,0,1,1,0,1,0,0,0,0,1,1,0,1,0,0,1
+6023,CA,Humboldt County,5,https://humboldtgov.org/,,1,1,1,1,1,1,1,0,1,0,0,1,1,0,1,0,1,0
+6025,CA,Imperial County,3,https://imperialcounty.org/,,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,0,1,0
+6027,CA,Inyo County,7,https://www.inyocounty.us/,,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,0
+6029,CA,Kern County,2,https://www.kerncounty.com/,https://kernvote.com/,1,0,1,0,0,0,1,1,1,0,0,1,1,0,1,0,1,0
+6031,CA,Kings County,3,https://www.countyofkings.com/,,1,1,1,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1
+6033,CA,Lake County,4,https://www.lakecountyca.gov/,,1,0,1,1,1,0,0,0,0,0,0,1,0,0,1,1,0,0
+6035,CA,Lassen County,7,https://www.lassencounty.org/,,1,0,1,1,1,0,1,1,0,1,1,0,1,0,1,0,0,1
+6037,CA,Los Angeles County,1,https://lacounty.gov/,https://www.lavote.gov/,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+6039,CA,Madera County,3,https://www.maderacounty.com/,https://votemadera.com/,1,0,1,1,1,0,1,1,0,1,0,1,1,0,1,0,1,1
+6041,CA,Marin County,1,https://www.marincounty.org/,,1,0,1,1,1,0,1,1,1,1,0,0,1,1,1,0,1,0
+6043,CA,Mariposa County,8,https://www.mariposacounty.org/,,1,0,0,1,1,1,0,1,0,0,0,1,1,0,1,0,1,0
+6045,CA,Mendocino County,4,https://www.mendocinocounty.org/,,1,0,1,1,1,0,1,1,0,0,0,1,1,0,1,0,0,0
+6047,CA,Merced County,2,https://www.countyofmerced.com/,,1,0,1,1,1,1,1,0,1,0,0,1,1,0,1,0,0,0
+6049,CA,Modoc County,6,www.co.modoc.ca.us,,1,0,0,1,0,1,0,0,0,0,0,0,1,0,1,1,0,0
+6051,CA,Mono County,7,https://monocounty.ca.gov/,,1,0,1,1,1,0,1,1,1,1,1,0,1,0,1,0,1,0
+6053,CA,Monterey County,2,https://www.co.monterey.ca.us/,https://www.montereycountyelections.us/,1,0,1,1,1,1,1,1,1,0,0,1,0,0,1,0,1,0
+6055,CA,Napa County,3,https://www.countyofnapa.org/,,1,0,1,1,1,1,1,0,0,0,0,1,1,0,1,1,1,0
+6057,CA,Nevada County,4,https://www.nevadacountyca.gov/,,1,0,1,1,1,1,1,0,0,1,1,0,0,0,1,1,1,1
+6059,CA,Orange County,1,https://www.ocgov.com/,https://ocvote.gov/,1,0,1,1,1,1,0,0,0,0,0,1,1,0,1,0,1,1
+6061,CA,Placer County,1,https://www.placer.ca.gov/,https://www.placercountyelections.gov/,1,0,1,1,1,0,1,0,0,0,1,1,1,0,1,0,0,1
+6063,CA,Plumas County,7,https://www.plumascounty.us/,,1,0,1,1,1,0,0,0,0,1,0,1,0,0,1,1,0,1
+6065,CA,Riverside County,1,https://rivco.org/,https://www.voteinfo.net/,1,0,1,1,1,1,1,0,1,0,1,0,1,0,1,1,1,1
+6067,CA,Sacramento County,1,https://www.saccounty.gov/,,1,1,1,1,1,0,1,0,0,0,0,1,1,0,1,1,1,1
+6069,CA,San Benito County,1,https://www.cosb.us/,sbcvote.us/,1,0,1,1,1,0,1,1,0,0,1,1,1,0,1,0,1,0
+6071,CA,San Bernardino County,1,https://main.sbcounty.gov/,https://sbcountyelections.com/,1,1,1,1,1,1,1,1,0,0,1,1,1,0,1,1,0,1
+6073,CA,San Diego County,1,https://www.sandiegocounty.gov/,,1,0,1,1,1,1,1,0,0,0,1,1,1,0,1,1,1,0
+6075,CA,San Francisco County,1,https://sf.gov/,,1,1,1,1,1,0,1,0,1,0,0,1,1,0,1,0,1,0
+6077,CA,San Joaquin County,2,https://www.sjgov.org/,,1,0,1,1,1,0,1,0,1,1,1,1,1,0,1,1,1,0
+6079,CA,San Luis Obispo County,2,https://www.slocounty.ca.gov/,,1,0,1,1,1,1,1,0,1,1,0,1,1,0,1,0,1,1
+6081,CA,San Mateo County,1,https://www.smcgov.org/,,1,0,1,1,1,1,0,0,0,0,0,1,1,0,1,1,0,0
+6083,CA,Santa Barbara County,2,www.countyofsb.org,,1,0,1,1,1,0,1,0,0,0,0,1,1,0,1,1,1,1
+6085,CA,Santa Clara County,1,https://home.sccgov.org/,,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,0,1,0
+6087,CA,Santa Cruz County,2,https://www.co.santa-cruz.ca.us/,,1,0,1,1,1,1,1,0,0,0,0,1,0,0,1,1,1,1
+6089,CA,Shasta County,3,https://www.shastacounty.gov/,,1,0,1,1,1,0,1,0,0,0,0,1,1,0,1,1,1,0
+6091,CA,Sierra County,8,https://www.sierracounty.ca.gov/,,1,0,1,1,1,0,0,1,1,0,0,1,0,0,1,0,1,1
+6093,CA,Siskiyou County,6,https://www.co.siskiyou.ca.us/,,1,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+6095,CA,Solano County,2,https://www.solanocounty.com/,,1,0,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1
+6097,CA,Sonoma County,2,https://sonomacounty.ca.gov/,,1,0,1,1,1,0,1,0,1,0,0,0,1,0,1,1,1,1
+6099,CA,Stanislaus County,2,https://www.stancounty.com/,https://www.stanvote.com/,1,0,1,1,1,1,0,1,1,0,1,1,1,0,0,1,1,1
+6101,CA,Sutter County,3,https://www.suttercounty.org/,,1,0,1,1,1,0,1,0,0,0,0,1,1,0,1,1,1,1
+6103,CA,Tehama County,4,https://www.co.tehama.ca.us/,,1,0,1,0,0,1,1,0,1,0,1,1,1,1,1,0,1,1
+6105,CA,Trinity County,8,https://www.trinitycounty.org/,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0
+6107,CA,Tulare County,2,https://tularecounty.ca.gov/county/,,1,0,1,1,1,0,1,0,0,0,0,0,1,1,1,1,1,0
+6109,CA,Tuolumne County,4,https://www.tuolumnecounty.ca.gov/,,1,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0,1,0
+6111,CA,Ventura County,2,https://www.ventura.org/,,1,0,1,1,1,1,0,1,1,1,0,1,1,0,1,0,1,1
+6113,CA,Yolo County,1,https://www.yolocounty.org/,,1,1,1,1,1,0,1,0,0,1,1,1,1,0,1,1,1,1
+6115,CA,Yuba County,3,https://www.yuba.org/,,1,0,1,1,1,0,1,1,0,1,0,1,1,0,1,1,1,0

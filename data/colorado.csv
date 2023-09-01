@@ -1,0 +1,104 @@
+﻿fips,state,county,rucc,website,website additonal,Election Results,Early Voting,Absentee Voting,Overseas Voting,Military Voting,Address Change,Poll Worker Application,Candidate Information,Election Schedule,Felon-restoration of voting rights,Sample Ballot,Track Vote By Mail,Polling Place Locations/Find your precinct,Voter ID/requirements,Voter Registration,Voter Registration Cancellation,Check Voter Registration Status,Signature Cure Form
+8001,CO,Adams County,1,https://adcogov.org/,https://www.adamscountycoelections.gov/,1,0,0,1,1,1,1,0,0,0,1,1,1,0,1,0,0,0
+8003,CO,Alamosa County,7,https://alamosacounty.colorado.gov/,,1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,0,0,0
+8005,CO,Arapahoe County,1,https://www.arapahoegov.com/,,1,0,0,1,1,1,1,1,0,0,1,1,1,1,1,1,1,0
+8007,CO,Archuleta County,7,https://www.archuletacounty.org/,,1,0,0,1,1,1,0,0,0,0,0,0,0,1,1,0,1,0
+8009,CO,Baca County,9,https://www.bacacountyco.gov/,,1,0,0,1,1,1,0,0,0,0,1,0,1,0,1,0,1,0
+8011,CO,Bent County,7,https://www.bentcounty.net/,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8013,CO,Boulder County,2,https://bouldercounty.gov/,,1,0,0,1,1,1,0,0,1,0,1,1,1,1,1,1,0,0
+8014,CO,Broomfield County,1,https://www.broomfield.org/,,1,0,0,1,1,1,0,1,0,0,1,1,1,0,1,0,0,0
+8015,CO,Chaffee County,7,https://www.chaffeecounty.org/,https://chaffeeclerk.colorado.gov/,,0,0,1,1,1,0,0,1,0,1,0,1,0,1,0,1,0
+8017,CO,Cheyenne County,9,https://www.co.cheyenne.co.us/,,1,0,0,1,1,1,0,0,1,0,0,0,0,1,1,0,0,0
+8019,CO,Clear Creek County,1,https://www.clearcreekcounty.us/,,1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0
+8021,CO,Conejos County,9,https://conejoscounty.colorado.gov/,,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+8023,CO,Costilla County,9,https://costillacounty.colorado.gov/,,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0
+8025,CO,Crowley County,8,https://crowleycounty.colorado.gov/,,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0
+8027,CO,Custer County,8,https://www.custercounty-co.gov/,,1,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,1,1
+8029,CO,Delta County,6,https://www.deltacountyco.gov/,,1,0,0,1,1,0,0,0,0,0,0,1,0,1,1,0,0,0
+8031,CO,Denver County,1,https://www.denvergov.org/,,0,0,0,1,1,1,1,0,0,1,0,1,1,0,1,1,1,0
+8033,CO,Dolores County,9,https://dolocnty.colorado.gov/,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+8035,CO,Douglas County,1,https://www.douglas.co.us/,,0,0,0,1,1,0,1,0,0,0,1,1,1,0,1,0,1,0
+8037,CO,Eagle County,5,https://www.eaglecounty.us/,,1,0,0,0,0,1,1,0,0,0,0,0,1,0,1,1,1,0
+8039,CO,Elbert County,1,https://www.elbertcounty-co.gov/,,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0
+8041,CO,El Paso County,2,https://www.elpasoco.com/,,1,0,0,1,1,1,0,0,1,1,1,1,1,1,1,1,1,0
+8043,CO,Fremont County,4,https://www.fremontco.com/,,1,0,0,0,0,1,1,0,1,0,0,1,0,0,1,0,1,0
+8045,CO,Garfield County,5,https://www.garfield-county.com/,,1,1,0,0,0,1,0,0,1,0,1,1,1,0,0,0,1,0
+8047,CO,Gilpin County,1,https://gilpincounty.colorado.gov/,,1,0,0,1,1,1,0,0,0,0,1,1,1,0,1,0,1,0
+8049,CO,Grand County,7,https://co.grand.co.us/,,1,0,0,0,0,1,0,0,0,0,1,1,1,1,1,0,1,0
+8051,CO,Gunnison County,7,https://www.gunnisoncounty.org/,,1,0,0,1,1,1,0,0,1,0,0,0,1,1,1,0,0,0
+8053,CO,Hinsdale County,9,https://hinsdalecounty.colorado.gov/,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8055,CO,Huerfano County,6,https://huerfano.us/,,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0
+8057,CO,Jackson County,9,https://jacksoncountyco.gov/,,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,1,0
+8059,CO,Jefferson County,1,https://www.jeffco.us/,,1,0,0,0,0,1,1,0,1,0,0,1,1,0,1,0,1,0
+8061,CO,Kiowa County,9,https://kiowacounty.colorado.gov/,,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0
+8063,CO,Kit Carson County,7,https://kitcarsoncounty.colorado.gov/,,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,1,0,0
+8065,CO,Lake County,6,https://www.lakecountyco.com/,,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0
+8067,CO,La Plata County,4,https://www.co.laplata.co.us/,,1,0,0,1,1,1,0,0,1,0,1,0,1,1,1,1,1,0
+8069,CO,Larimer County,2,https://www.larimer.gov/,,0,0,0,1,1,0,1,0,1,0,0,1,1,0,1,0,1,0
+8071,CO,Las Animas County,7,https://lasanimascounty.colorado.gov/,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+8073,CO,Lincoln County,8,https://lincolncounty.colorado.gov/,,1,0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0
+8075,CO,Logan County,7,https://logancounty.colorado.gov/,,1,0,0,1,1,1,0,0,0,1,0,1,0,1,1,0,1,0
+8077,CO,Mesa County,3,mesacounty.us,,1,0,0,1,1,0,1,0,1,0,1,1,1,1,1,1,1,0
+8079,CO,Mineral County,9,https://mineralcounty.colorado.gov/,,0,0,1,1,0,1,0,0,0,0,0,0,1,1,1,0,0,0
+8081,CO,Moffat County,7,https://moffatcounty.colorado.gov/,,1,0,0,0,0,1,0,0,1,0,1,0,0,0,1,1,1,0
+8083,CO,Montezuma County,6,https://montezumacounty.org/,,1,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0
+8085,CO,Montrose County,4,https://www.montrosecounty.net/,,1,0,0,1,1,0,0,0,0,0,1,1,0,0,1,1,0,0
+8087,CO,Morgan County,6,https://morgancounty.colorado.gov/,,1,1,0,1,1,1,0,0,1,0,1,1,1,0,1,0,1,0
+8089,CO,Otero County,6,https://oterocounty.colorado.gov/,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+8091,CO,Ouray County,9,https://ouraycountyco.gov/,,1,0,0,1,1,0,0,0,0,0,0,1,0,0,1,1,1,0
+8093,CO,Park County,1,https://www.parkco.us/,,1,0,0,1,1,1,0,0,0,0,0,1,1,0,1,0,0,0
+8095,CO,Phillips County,9,https://phillipscounty.colorado.gov/,,0,0,0,0,0,1,0,0,0,0,1,0,1,1,1,0,1,0
+8097,CO,Pitkin County,7,https://pitkincounty.com/,https://www.pitkinvotes.com/,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,0,0,0
+8099,CO,Prowers County,7,https://www.prowerscounty.net/,,1,0,0,1,1,0,0,0,1,0,1,1,1,1,1,1,0,0
+8101,CO,Pueblo County,3,https://county.pueblo.org/,,1,0,0,1,1,1,1,0,0,0,1,0,1,1,1,0,1,0
+8103,CO,Rio Blanco County,9,https://www.rbc.us/,,1,0,1,1,1,1,0,0,0,0,1,1,1,1,1,0,0,0
+8105,CO,Rio Grande County,7,https://www.riograndecounty.org/,,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0
+8107,CO,Routt County,7,https://www.co.routt.co.us/,,1,0,0,1,1,1,0,0,0,0,1,1,1,1,1,1,1,0
+8109,CO,Saguache County,9,https://saguachecoclerk.colorado.gov/,,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0
+8111,CO,San Juan County,9,https://sanjuancounty.colorado.gov/,,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0
+8113,CO,San Miguel County,9,https://www.sanmiguelcountyco.gov/,,0,0,0,0,0,1,1,0,1,0,0,1,0,1,1,1,0,0
+8115,CO,Sedgwick County,9,https://sedgwickcounty.colorado.gov/,,1,0,0,0,0,0,0,0,1,0,1,0,1,1,1,0,1,0
+8117,CO,Summit County,5,https://www.summitcountyco.gov/,,1,0,0,1,1,1,0,0,0,0,0,1,1,0,1,0,0,1
+8119,CO,Teller County,2,https://www.co.teller.co.us/,,1,0,0,1,1,0,1,0,0,0,0,0,1,0,1,0,1,0
+8121,CO,Washington County,9,https://washingtoncounty.colorado.gov/,,1,0,0,1,1,1,0,1,0,0,1,1,1,0,1,0,1,0
+8123,CO,Weld County,2,https://www.weld.gov/,,1,0,0,1,1,1,1,0,0,1,1,1,0,0,1,0,1,0
+8125,CO,Yuma County,7,https://yumacounty.net/,,1,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,

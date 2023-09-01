@@ -1,0 +1,135 @@
+﻿fips,state,county,rucc,website,website additonal,Election Results,Early Voting,Absentee Voting,Overseas Voting,Military Voting,Address Change,Poll Worker Application,Candidate Information,Election Schedule,Felon-restoration of voting rights,Sample Ballot,Track Vote By Mail,Polling Place Locations/Find your precinct,Voter ID/requirements,Voter Registration,Voter Registration Cancellation,Check Voter Registration Status,Signature Cure Form
+51001,VA,Accomack County,8,https://www.co.accomack.va.us/,,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,0,1,0
+51003,VA,Albemarle County,3,https://www.albemarle.org/,,1,1,1,0,0,1,1,0,0,0,1,1,1,1,1,0,1,0
+51005,VA,Alleghany County,6,https://www.co.alleghany.va.us/,,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+51007,VA,Amelia County,1,https://www.ameliacova.com/,,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0
+51009,VA,Amherst County,2,https://www.countyofamherst.com/,,0,1,1,0,0,0,1,1,1,0,1,1,1,0,1,0,0,0
+51011,VA,Appomattox County,2,https://www.appomattoxcountyva.gov/,,0,0,1,1,1,1,0,0,1,0,1,0,1,0,0,0,1,0
+51013,VA,Arlington County,1,https://vote.arlingtonva.gov/Home,,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,0,1,0
+51015,VA,Augusta County,3,https://www.co.augusta.va.us/,,1,0,1,1,1,1,1,0,0,1,0,0,1,1,1,0,1,0
+51017,VA,Bath County,8,https://www.bathcountyva.gov/,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+51019,VA,Bedford County,2,https://www.bedfordcountyva.gov/,,0,1,1,1,1,0,1,1,0,0,1,0,1,1,1,0,0,0
+51021,VA,Bland County,8,https://www.blandcountyva.gov/,,1,0,1,1,1,0,0,0,0,0,0,1,1,1,1,0,0,0
+51023,VA,Botetourt County,2,https://www.botetourtva.gov/,,1,1,1,0,0,1,1,1,1,0,1,0,1,1,1,0,1,0
+51025,VA,Brunswick County,6,https://www.brunswickco.com/,https://www.brunswickelections.com/,0,0,1,1,1,0,1,1,1,0,1,1,1,1,1,0,1,0
+51027,VA,Buchanan County,9,https://www.buchanancountyonline.com/,,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+51029,VA,Buckingham County,3,https://www.buckinghamcountyva.org/,,1,0,1,1,1,0,0,0,0,0,0,1,1,0,1,0,0,0
+51031,VA,Campbell County,2,https://www.co.campbell.va.us/,,1,0,1,1,1,1,1,0,1,0,1,1,1,0,1,0,1,0
+51033,VA,Caroline County,1,https://co.caroline.va.us/,,0,0,1,1,1,0,1,0,0,0,0,1,1,0,1,0,1,0
+51035,VA,Carroll County,7,https://carrollcountyva.gov/,,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,0,0,0
+51036,VA,Charles City County,1,https://www.charlescityva.us/,,1,0,1,0,0,0,1,1,1,1,1,0,1,1,1,0,0,0
+51037,VA,Charlotte County,8,https://www.charlottecountyva.gov/,,0,0,1,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0
+51041,VA,Chesterfield County,1,https://www.chesterfield.gov/,,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,0
+51043,VA,Clarke County,1,https://www.clarkecounty.gov/,,0,1,1,1,1,1,1,1,1,0,1,0,1,1,1,0,1,0
+51045,VA,Craig County,2,https://craigcountyva.gov/,,0,0,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0
+51047,VA,Culpeper County,1,https://web.culpepercounty.gov/,,1,0,1,1,1,1,1,0,0,0,0,0,1,1,1,1,0,0
+51049,VA,Cumberland County,8,https://cumberlandcounty.virginia.gov/,,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+51051,VA,Dickenson County,9,https://dickensonva.org/,,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0
+51053,VA,Dinwiddie County,1,https://www.dinwiddieva.us/,,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,0,0
+51057,VA,Essex County,6,https://www.essex-virginia.org/,,1,1,1,1,1,1,1,0,1,0,0,1,1,1,1,0,1,0
+51059,VA,Fairfax County,1,https://www.fairfaxcounty.gov/,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0
+51061,VA,Fauquier County,1,https://www.fauquiercounty.gov/,,1,0,1,1,1,0,0,1,1,0,0,1,1,1,1,0,1,0
+51063,VA,Floyd County,3,https://www.floydcova.gov/,,0,1,1,1,1,0,0,1,1,0,1,1,0,0,1,0,0,0
+51065,VA,Fluvanna County,3,https://www.fluvannacounty.org/,,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,0,0,0
+51067,VA,Franklin County,2,https://www.franklincountyva.gov/,,0,0,1,1,1,0,1,1,1,0,1,1,1,1,1,0,1,0
+51069,VA,Frederick County,3,https://www.fcva.us/,,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,0
+51071,VA,Giles County,3,https://virginiasmtnplayground.com/,,0,1,1,1,1,0,1,1,0,0,1,1,0,1,1,0,0,0
+51073,VA,Gloucester County,1,https://www.gloucesterva.info/,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+51075,VA,Goochland County,1,https://www.goochlandva.us/,,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,0,1,0
+51077,VA,Grayson County,9,https://www.graysoncountyva.gov/,,0,1,1,1,1,0,0,0,0,1,0,1,1,1,1,0,0,0
+51079,VA,Greene County,3,https://www.greenecountyva.gov/,,0,1,1,0,0,1,0,0,0,0,0,0,1,1,1,0,1,0
+51081,VA,Greensville County,6,https://www.greensvillecountyva.gov/,,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0
+51083,VA,Halifax County,6,https://www.halifaxcountyva.gov/,,0,0,0,1,1,0,0,1,0,0,1,0,1,0,0,0,0,0
+51085,VA,Hanover County,1,https://www.hanovercounty.gov/,,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,0,1,0
+51087,VA,Henrico County,1,https://henrico.us/,,1,0,1,1,1,0,1,1,1,0,1,1,1,1,1,0,1,0
+51089,VA,Henry County,4,https://www.henrycountyva.gov/,,0,1,1,1,1,0,1,1,1,0,1,0,1,0,1,0,0,0
+51091,VA,Highland County,8,https://www.highlandcova.org/,,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+51093,VA,Isle of Wight County,1,https://www.co.isle-of-wight.va.us/,,0,0,1,0,0,1,1,1,0,0,1,0,1,1,1,0,0,0
+51095,VA,James City County,1,https://www.jamescitycountyva.gov/,,1,1,1,0,0,0,1,0,0,0,0,0,1,1,1,1,0,0
+51097,VA,King and Queen County,8,http://www.kingandqueenco.net/indexnoflash.html,,1,0,1,1,1,0,0,1,0,0,0,0,1,1,1,0,1,0
+51099,VA,King George County,6,https://www.kinggeorgecountyva.gov/,,0,1,1,1,1,1,1,0,0,1,0,0,1,1,1,0,0,0
+51101,VA,King William County,1,https://www.kwc.gov/,,0,1,1,1,1,1,1,1,0,0,1,1,1,1,1,0,1,0
+51103,VA,Lancaster County,9,http://www.lancova.com/,,1,0,1,0,0,1,1,0,0,0,0,0,1,1,1,0,1,0
+51105,VA,Lee County,8,http://www.leecova.org/,,1,0,1,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0
+51107,VA,Loudoun County,1,https://www.loudoun.gov/,,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,0
+51109,VA,Louisa County,8,https://www.louisacounty.gov/,,0,1,1,1,1,1,0,1,1,0,1,1,1,1,1,0,1,0
+51111,VA,Lunenburg County,9,https://lunenburgva.gov/,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+51113,VA,Madison County,8,https://www.madisonco.virginia.gov/,,0,1,1,1,1,0,1,0,0,0,0,0,1,1,1,1,1,0
+51115,VA,Mathews County,1,https://www.mathewscountyva.gov/,,0,0,1,1,1,0,0,1,0,0,0,0,1,0,0,0,1,0
+51117,VA,Mecklenburg County,7,https://www.mecklenburgva.com/,,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0
+51119,VA,Middlesex County,8,https://www.co.middlesex.va.us/,,0,1,1,1,1,1,1,1,0,0,1,0,1,0,1,0,0,0
+51121,VA,Montgomery County,3,https://montva.com/,,1,1,1,1,1,1,1,0,1,0,1,0,1,1,1,0,1,0
+51125,VA,Nelson County,3,https://www.nelsoncounty-va.gov/,https://votingnelsoncountyva.org/,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,0
+51127,VA,New Kent County,1,https://www.co.new-kent.va.us/,,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,0,1,0
+51131,VA,Northampton County,8,https://www.co.northampton.va.us/,,0,1,1,1,1,1,1,0,0,0,0,0,1,1,1,0,0,0
+51133,VA,Northumberland County,9,https://www.norrycopa.net/,,1,0,1,1,1,0,1,1,1,0,1,0,1,0,1,0,1,0
+51135,VA,Nottoway County,6,https://nottoway.org/,,0,0,1,1,1,0,0,1,1,0,1,0,1,0,1,0,0,0
+51137,VA,Orange County,6,https://orangecountyva.gov/,,0,1,1,1,1,1,1,1,1,0,0,0,1,1,1,0,1,0
+51139,VA,Page County,6,https://www.pagecounty.virginia.gov/,,0,0,1,1,1,1,0,0,1,0,0,0,1,1,1,0,1,0
+51141,VA,Patrick County,8,https://www.co.patrick.va.us/,,1,1,1,1,1,0,1,1,1,0,1,1,1,0,1,0,0,0
+51143,VA,Pittsylvania County,4,https://www.pittsylvaniacountyva.gov/,,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,0,0
+51145,VA,Powhatan County,1,https://www.powhatanva.gov/,,1,1,1,1,1,0,1,0,0,0,0,0,1,0,1,0,1,0
+51147,VA,Prince Edward County,6,https://www.co.prince-edward.va.us/,,0,1,1,1,1,0,0,1,0,0,1,1,1,0,1,0,0,0
+51149,VA,Prince George County,1,https://www.princegeorgecountyva.gov/,,1,1,1,1,1,0,1,1,1,0,1,0,1,1,1,0,1,0
+51153,VA,Prince William County,1,https://www.pwcva.gov/,https://www.pwcvotes.org/,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,0
+51155,VA,Pulaski County,3,https://www.pulaskicounty.org/,,0,0,1,1,1,0,0,0,0,1,0,1,1,0,1,0,0,0
+51157,VA,Rappahannock County,1,https://www.rappahannockcountyva.gov/,,0,0,1,1,1,0,1,0,0,0,0,0,1,1,1,0,0,0
+51159,VA,Richmond County,9,https://co.richmond.va.us/,,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+51161,VA,Roanoke County,2,https://www.roanokecountyva.gov/,,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0
+51163,VA,Rockbridge County,6,https://www.co.rockbridge.va.us/,,1,0,1,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0
+51165,VA,Rockingham County,3,https://www.rockinghamcountyva.gov/,,1,0,1,1,1,1,1,1,1,0,1,1,1,0,1,0,0,0
+51167,VA,Russell County,7,https://www.russellcountyva.us/,https://rcvote.com/,1,1,1,0,0,1,0,1,0,0,1,0,1,0,1,0,1,0
+51169,VA,Scott County,2,https://www.scottcountyva.com/,,0,1,1,1,1,1,0,0,0,1,0,0,1,1,1,0,0,0
+51171,VA,Shenandoah County,6,https://shenandoahcountyva.us/,,1,1,1,1,1,0,1,1,1,0,1,0,1,1,1,0,1,0
+51173,VA,Smyth County,7,http://www.smythcounty.org/,,0,0,1,0,0,1,0,1,0,0,1,0,1,1,1,0,1,0
+51175,VA,Southampton County,6,https://www.southamptoncounty.org/,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+51177,VA,Spotsylvania County,1,https://www.spotsylvania.va.us/,,0,1,1,1,1,0,1,1,1,0,1,0,1,1,1,0,1,0
+51179,VA,Stafford County,1,https://staffordcountyva.gov/,,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0
+51181,VA,Surry County,8,https://www.surrycountyva.gov/,,0,1,1,0,0,1,0,1,1,0,1,0,1,1,1,0,1,0
+51183,VA,Sussex County,1,https://www.sussexcountyva.gov/,,1,1,1,1,1,0,0,1,1,0,1,0,1,0,1,0,1,0
+51185,VA,Tazewell County,5,https://tazewellcountyva.org/,https://www.votetazewellcounty.org/,0,1,1,1,1,0,0,1,1,0,1,0,1,0,1,1,1,0
+51187,VA,Warren County,1,https://warrencountyva.gov/,,0,1,1,1,1,0,0,0,1,0,0,0,1,1,1,0,0,0
+51191,VA,Washington County,2,https://www.washcova.com/,,1,1,1,1,1,0,0,0,1,0,0,0,1,0,1,0,0,0
+51193,VA,Westmoreland County,6,https://www.westmoreland-county.org/,,1,0,1,1,1,1,0,0,0,0,0,0,1,0,1,0,0,0
+51195,VA,Wise County,7,https://www.wisecounty.org/,,0,1,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0
+51197,VA,Wythe County,6,http://www.wytheco.org/,,0,0,1,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0
+51199,VA,York County,1,https://www.yorkcounty.gov/,,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,0,1,0
+51510,VA,Alexandria city,1,https://www.alexandriava.gov,,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,0,0
+51515,VA,Bedford city,2,https://www.bedfordva.gov,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+51520,VA,Bristol city,2,https://www.bristolva.org,,0,1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0
+51530,VA,Buena Vista city,6,https://www.buenavistava.org,,0,1,1,1,1,0,1,0,1,0,0,1,0,1,1,0,0,0
+51540,VA,Charlottesville city,3,https://www.charlottesville.gov,,1,1,1,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0
+51550,VA,Chesapeake city,1,https://www.cityofchesapeake.net,,1,1,1,1,1,1,1,1,1,0,1,0,1,0,1,0,1,0
+51570,VA,Colonial Heights city,1,https://www.colonialheightsva.gov,,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+51580,VA,Covington city,6,https://covington.va.us,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+51590,VA,Danville city,4,https://www.danville-va.gov,,1,0,1,1,1,0,1,0,1,0,0,0,1,1,1,0,0,0
+51595,VA,Emporia city,6,https://www.ci.emporia.va.us,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+51600,VA,Fairfax city,1,https://www.fairfaxva.gov,,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,0
+51610,VA,Falls Church city,1,https://www.fallschurchva.gov,,1,1,1,0,0,1,0,1,1,0,0,0,1,1,1,0,1,0
+51620,VA,Franklin city,6,https://www.franklinva.com,,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0
+51630,VA,Fredericksburg city,1,https://www.fredericksburgva.gov,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+51640,VA,Galax city,7,https://galaxva.com,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+51650,VA,Hampton city,1,https://hampton.gov,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+51660,VA,Harrisonburg city,3,https://www.harrisonburgva.gov,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+51670,VA,Hopewell city,1,https://hopewellva.gov,,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0,0
+51678,VA,Lexington city,6,https://www.lexingtonva.gov,,0,1,1,1,1,1,0,1,1,0,0,0,1,1,1,0,0,0
+51680,VA,Lynchburg city,2,https://www.lynchburgva.gov,,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0
+51683,VA,Manassas city,1,https://www.manassasva.gov,,1,1,0,1,1,0,0,0,1,0,0,1,0,1,1,0,0,0
+51685,VA,Manassas Park city,1,https://www.manassasparkva.gov,,1,0,1,1,1,0,1,1,0,0,1,0,1,0,1,1,0,0
+51690,VA,Martinsville city,4,https://www.martinsville-va.gov,,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0
+51700,VA,Newport News city,1,https://www.nnva.gov,,1,1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+51710,VA,Norfolk city,1,https://www.norfolk.gov,,1,1,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0
+51720,VA,Norton city,7,https://www.nortonva.gov,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+51730,VA,Petersburg city,1,http://www.petersburg-va.org,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+51735,VA,Poquoson city,1,https://www.ci.poquoson.va.us,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+51740,VA,Portsmouth city,1,https://www.portsmouthva.gov,,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+51750,VA,Radford city,3,https://www.radfordva.gov,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+51760,VA,Richmond city,1,https://www.rva.gov,,1,1,0,1,1,0,1,1,1,1,0,0,1,0,1,1,0,0
+51770,VA,Roanoke city,2,https://www.roanokeva.gov,,0,1,1,0,0,0,1,1,1,0,1,0,0,1,0,0,0,0
+51775,VA,Salem city,2,https://salemva.gov,,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+51790,VA,Staunton city,3,https://www.ci.staunton.va.us,,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+51800,VA,Suffolk city,1,https://www.suffolkva.us,,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+51810,VA,Virginia Beach city,1,https://www.vbgov.com/Pages/default.aspx,,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+51820,VA,Waynesboro city,3,https://www.waynesboro.va.us,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+51830,VA,Williamsburg city,1,https://www.williamsburgva.gov,,0,1,0,0,0,1,1,1,1,0,1,0,1,0,0,0,0,0
+51840,VA,Winchester city,3,https://www.winchesterva.gov,,0,1,1,1,1,1,1,1,1,0,0,1,0,1,1,0,0,0

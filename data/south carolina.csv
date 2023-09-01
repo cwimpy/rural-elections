@@ -1,0 +1,104 @@
+﻿fips,state,county,rucc,website,website additonal,Election Results,Early Voting,Absentee Voting,Overseas Voting,Military Voting,Address Change,Poll Worker Application,Candidate Information,Election Schedule,Felon-restoration of voting rights,Sample Ballot,Track Vote By Mail,Polling Place Locations/Find your precinct,Voter ID/requirements,Voter Registration,Voter Registration Cancellation,Check Voter Registration Status,Signature Cure Form
+45001,SC,Abbeville County,6,https://abbevillecountysc.com/,,0,0,1,1,1,1,0,0,0,0,0,1,1,1,1,0,1,0
+45003,SC,Aiken County,2,https://www.aikencountysc.gov/,,1,1,0,1,1,1,1,0,0,0,0,0,1,1,1,0,1,0
+45005,SC,Allendale County,6,https://www.allendalecounty.com/,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+45007,SC,Anderson County,2,https://www.andersoncountysc.org/,,1,1,0,1,1,0,1,0,1,0,0,0,1,0,1,0,0,0
+45009,SC,Bamberg County,7,https://www.bambergcountysc.gov/,,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0
+45011,SC,Barnwell County,6,https://www.barnwellcountysc.us/,,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+45013,SC,Beaufort County,3,https://www.beaufortcountysc.gov/,,1,1,0,1,1,1,1,0,0,1,0,0,1,0,1,0,1,0
+45015,SC,Berkeley County,2,https://berkeleycountysc.gov/,,1,0,1,1,1,1,1,0,0,0,0,0,1,1,1,0,1,0
+45017,SC,Calhoun County,2,https://calhouncounty.sc.gov/,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45019,SC,Charleston County,2,https://www.charlestoncounty.org/index.php,,1,1,1,0,0,0,1,0,1,0,0,1,1,0,1,0,1,0
+45021,SC,Cherokee County,4,https://cherokeecountysc.gov/,,0,1,0,0,0,1,1,0,0,1,0,0,1,1,1,0,1,0
+45023,SC,Chester County,1,https://www.chestercountysc.gov/,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45025,SC,Chesterfield County,6,https://www.chesterfieldcountysc.com/,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45027,SC,Clarendon County,6,https://clarendoncountygov.org/,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+45029,SC,Colleton County,6,https://www.colletoncounty.org/,,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0
+45031,SC,Darlington County,3,https://www.darcosc.com/,,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+45033,SC,Dillon County,6,https://www.dilloncountysc.org/,,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,0
+45035,SC,Dorchester County,2,https://www.dorchestercountysc.gov/home,,1,1,1,0,0,1,0,0,0,0,0,1,1,0,1,0,1,0
+45037,SC,Edgefield County,2,https://edgefieldcounty.sc.gov/,,0,0,1,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+45039,SC,Fairfield County,2,https://www.fairfieldsc.com/,,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+45041,SC,Florence County,3,http://florenceco.org/,,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0
+45043,SC,Georgetown County,4,https://www.gtcounty.org/,,1,1,1,1,1,0,1,0,0,0,1,0,1,0,1,0,1,0
+45045,SC,Greenville County,2,https://www.greenvillecounty.org/,,1,1,1,1,1,1,1,0,0,0,0,0,1,1,1,0,1,0
+45047,SC,Greenwood County,4,https://www.greenwoodcounty-sc.gov/,,1,0,1,1,1,1,1,0,0,0,0,0,1,1,1,0,1,0
+45049,SC,Hampton County,6,https://www.hamptoncountysc.org/,,1,1,1,1,1,0,0,0,1,1,0,1,1,1,1,0,0,0
+45051,SC,Horry County,2,https://www.horrycountysc.gov/,,0,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0
+45053,SC,Jasper County,3,https://www.jaspercountysc.gov/,,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+45055,SC,Kershaw County,2,https://www.kershaw.sc.gov/home,,1,1,1,0,0,1,1,0,0,1,0,0,1,0,1,0,0,0
+45057,SC,Lancaster County,1,https://www.mylancastersc.org/,,1,0,1,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0
+45059,SC,Laurens County,2,https://laurenscounty.us/,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+45061,SC,Lee County,6,https://www.leecountysc.org/,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45063,SC,Lexington County,2,https://lex-co.sc.gov/,,1,0,1,0,0,1,1,0,0,0,0,0,1,1,1,0,1,0
+45065,SC,McCormick County,8,https://www.mccormickcountysc.org/index.php,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45067,SC,Marion County,6,https://www.marionsc.org/,,0,0,1,1,1,1,1,1,0,1,0,0,1,0,1,0,1,0
+45069,SC,Marlboro County,6,https://marlborocounty.sc.gov/,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45071,SC,Newberry County,6,https://www.newberrycounty.net/,,0,1,1,1,1,1,0,0,0,1,0,0,1,1,1,1,1,0
+45073,SC,Oconee County,4,https://oconeesc.com/,,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0
+45075,SC,Orangeburg County,4,https://www.orangeburgcounty.org/,,0,0,1,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0
+45077,SC,Pickens County,2,https://pickenselections.org/,,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,0,1,0
+45079,SC,Richland County,2,https://www.richlandcountysc.gov/default.aspx,,1,1,1,0,0,1,1,0,1,0,0,0,1,1,1,0,1,0
+45081,SC,Saluda County,2,https://saludacounty.sc.gov/,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+45083,SC,Spartanburg County,2,https://www.spartanburgcounty.org/,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0
+45085,SC,Sumter County,3,https://www.sumtercountysc.org/,,0,0,1,0,0,1,1,0,1,0,0,0,1,1,1,0,0,0
+45087,SC,Union County,2,https://gearupunionsc.com/,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+45089,SC,Williamsburg County,6,https://www.williamsburgcounty.sc.gov/,,1,0,1,1,1,1,1,1,0,0,0,0,1,1,1,0,0,0
+45091,SC,York County,1,https://www.yorkcountygov.com/,,1,0,0,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,

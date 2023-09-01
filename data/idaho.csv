@@ -1,0 +1,104 @@
+﻿fips,state,county,rucc,website,website additonal,Election Results,Early Voting,Absentee Voting,Overseas Voting,Military Voting,Address Change,Poll Worker Application,Candidate Information,Election Schedule,Felon-restoration of voting rights,Sample Ballot,Track Vote By Mail,Polling Place Locations/Find your precinct,Voter ID/requirements,Voter Registration,Voter Registration Cancellation,Check Voter Registration Status,Signature Cure Form
+16001,ID,Ada County,2,https://adacounty.id.gov/,,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0
+16003,ID,Adams County,9,https://www.co.adams.id.us/,,1,0,1,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0
+16005,ID,Bannock County,3,https://www.bannockcounty.us/,,1,1,1,0,0,0,0,0,1,0,1,1,1,0,1,0,1,0
+16007,ID,Bear Lake County,9,https://www.bearlakecounty.info/,,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+16009,ID,Benewah County,6,https://www.benewahcountyid.gov/,,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16011,ID,Bingham County,4,https://www.co.bingham.id.us/,,1,0,1,0,0,0,0,1,1,0,0,1,1,0,1,0,1,0
+16013,ID,Blaine County,7,https://www.co.blaine.id.us/,,1,1,1,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0
+16015,ID,Boise County,2,https://www.boisecounty.us/,,1,0,1,0,0,1,0,0,1,0,1,1,1,0,1,0,1,0
+16017,ID,Bonner County,6,https://cloudgis.bonnercountyid.gov/portal/apps/sites/#/electionshub,,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,0,0,0
+16019,ID,Bonneville County,3,https://www.bonnevillecountyidaho.gov/,,1,1,1,1,1,0,1,1,1,0,1,1,1,0,1,0,1,0
+16021,ID,Boundary County,7,http://boundarycountyid.org/,,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0
+16023,ID,Butte County,3,https://www.buttecountyid.us/,,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+16025,ID,Camas County,9,http://camascounty.id.gov/,,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+16027,ID,Canyon County,2,https://www.canyoncounty.id.gov/,,1,1,1,0,0,1,1,1,1,0,1,0,1,1,1,0,0,0
+16029,ID,Caribou County,6,https://www.cariboucounty.us/,,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+16031,ID,Cassia County,7,https://www.cassiacounty.org/,,1,1,1,0,0,1,1,1,1,1,1,0,1,1,1,0,0,0
+16033,ID,Clark County,9,https://www.clark-co.id.gov/,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+16035,ID,Clearwater County,6,https://www.clearwatercounty.org/,,1,1,1,1,1,0,1,1,1,0,1,0,0,0,1,0,0,0
+16037,ID,Custer County,8,https://custercountyidaho.org/,,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+16039,ID,Elmore County,6,https://elmorecounty.org/,,1,1,1,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0
+16041,ID,Franklin County,3,https://www.franklincountyidaho.org/,,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0
+16043,ID,Fremont County,6,https://www.co.fremont.id.us/,,1,0,1,1,1,0,1,0,0,0,1,0,0,1,1,0,0,0
+16045,ID,Gem County,2,https://www.gemcounty.org/,,1,0,1,1,1,1,1,0,1,0,1,0,1,1,1,0,0,0
+16047,ID,Gooding County,7,https://www.goodingcounty.org/,,1,1,1,1,1,0,0,0,1,0,1,0,1,0,1,0,0,0
+16049,ID,Idaho County,6,https://idahocounty.org/planb/,,0,0,1,1,1,0,0,1,1,0,1,0,1,1,1,0,0,0
+16051,ID,Jefferson County,3,http://www.co.jefferson.id.us/,,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,1,0,0
+16053,ID,Jerome County,7,https://www.jeromecountyid.us/,,0,0,1,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0
+16055,ID,Kootenai County,3,https://www.kcgov.us/,,1,0,1,1,1,1,1,1,1,0,0,0,1,1,1,0,0,0
+16057,ID,Latah County,4,https://latahcountyid.gov/,,1,0,1,1,1,0,1,1,0,0,1,0,1,0,1,0,0,0
+16059,ID,Lemhi County,7,https://www.lemhicountyidaho.org/,,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+16061,ID,Lewis County,8,http://www.lewiscountyid.us/,,1,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0
+16063,ID,Lincoln County,9,https://lincolncountyid.us/,,0,0,1,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0
+16065,ID,Madison County,4,https://co.madison.id.us/,,1,1,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0
+16067,ID,Minidoka County,7,https://www.minidoka.id.us/,,1,0,1,1,1,1,0,0,1,1,0,0,1,1,1,0,0,0
+16069,ID,Nez Perce County,3,https://www.co.nezperce.id.us/,,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,1,0
+16071,ID,Oneida County,8,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16073,ID,Owyhee County,2,https://owyheecounty.net/,,1,0,1,0,0,0,1,0,1,0,1,0,1,0,1,0,0,0
+16075,ID,Payette County,6,https://www.payettecounty.org/,,0,1,1,0,0,1,0,0,0,0,1,0,1,1,1,0,0,0
+16077,ID,Power County,6,https://www.co.power.id.us/,,1,1,0,0,0,1,0,0,1,0,1,0,1,1,1,0,0,0
+16079,ID,Shoshone County,6,https://shoshonecounty.id.gov/,,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+16081,ID,Teton County,9,https://www.tetoncountyidaho.gov/,,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+16083,ID,Twin Falls County,5,https://twinfallscounty.org/,,1,1,1,1,1,0,0,1,1,1,1,0,1,1,1,0,0,0
+16085,ID,Valley County,8,https://www.co.valley.id.us/,,1,0,1,0,0,1,0,0,1,0,1,1,1,1,1,0,0,0
+16087,ID,Washington County,6,https://co.washington.id.us/,,1,0,1,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,

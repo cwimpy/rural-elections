@@ -1,0 +1,73 @@
+fips,state,county,rucc,website,website additonal,Election Results,Early Voting,Absentee Voting,Overseas Voting,Military Voting,Address Change,Poll Worker Application,Candidate Information,Election Schedule,Felon-restoration of voting rights,Sample Ballot,Track Vote By Mail,Polling Place Locations/Find your precinct,Voter ID/requirements,Voter Registration,Voter Registration Cancellation,Check Voter Registration Status,Signature Cure Form
+55001,WI,Adams County,8,https://www.co.adams.wi.us/home,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55003,WI,Ashland County,7,https://co.ashland.wi.us,,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+55005,WI,Barron County,6,https://www.barroncountywi.gov,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55007,WI,Bayfield County,8,https://www.bayfieldcounty.wi.gov,,1,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0
+55009,WI,Brown County,2,https://www.browncountywi.gov,,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+55011,WI,Buffalo County,8,https://www.buffalocountywi.gov,,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+55013,WI,Burnett County,8,https://www.burnettcountywi.gov,,1,0,0,0,0,0,0,0,1,,1,0,0,0,0,0,0,0
+55015,WI,Calumet County,3,https://calumetcounty.org,,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0
+55017,WI,Chippewa County,3,https://www.co.chippewa.wi.us/home,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+55019,WI,Clark County,6,https://www.clarkcountywi.gov/,,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0
+55021,WI,Columbia County,2,https://www.co.columbia.wi.us/columbiacounty/,,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0
+55023,WI,Crawford County,7,https://www.crawfordcountywi.org,,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+55025,WI,Dane County,2,https://www.countyofdane.com,,1,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0
+55027,WI,Dodge County,4,https://www.co.dodge.wi.gov/home,,1,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0
+55029,WI,Door County,6,https://www.co.door.wi.gov,,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+55031,WI,Douglas County,2,https://www.douglascountywi.org,,1,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0
+55033,WI,Dunn County,6,https://dunncountywi.gov,,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+55035,WI,Eau Claire County,3,https://www.eauclairecounty.gov/home,,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+55037,WI,Florence County,9,https://www.florencecountywi.com,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55039,WI,Fond du Lac County,3,https://www.fdlco.wi.gov/home,,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0
+55041,WI,Forest County,9,http://www.co.forest.wi.gov,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+55043,WI,Grant County,6,http://www.co.grant.wi.gov,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+55045,WI,Green County,2,https://wi-greencounty.civicplus.com,,1,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0
+55047,WI,Green Lake County,6,https://www.greenlakecountywi.gov,,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+55049,WI,Iowa County,2,https://www.iowacounty.org,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55051,WI,Iron County,9,http://www.co.iron.wi.gov,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55053,WI,Jackson County,6,https://www.co.jackson.wi.us,,1,0,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0
+55055,WI,Jefferson County,4,https://www.jeffersoncountywi.gov,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55057,WI,Juneau County,7,https://www.co.juneau.wi.gov,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55059,WI,Kenosha County,1,https://www.kenoshacounty.org,,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+55061,WI,Kewaunee County,2,https://www.kewauneeco.org,,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+55063,WI,La Crosse County,3,https://www.lacrossecounty.org,,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+55065,WI,Lafayette County,8,https://www.lafayettecountywi.org,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55067,WI,Langlade County,6,https://www.co.langlade.wi.us,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55069,WI,Lincoln County,6,https://co.lincoln.wi.us,,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0
+55071,WI,Manitowoc County,4,https://manitowoccountywi.gov,,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+55073,WI,Marathon County,3,https://www.marathoncounty.gov,,1,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0
+55075,WI,Marinette County,6,https://www.marinettecounty.com,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55077,WI,Marquette County,8,https://www.co.marquette.wi.us/home,,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+55078,WI,Menominee County,8,https://www.co.menominee.wi.us,,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+55079,WI,Milwaukee County,1,https://county.milwaukee.gov,,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+55081,WI,Monroe County,6,https://www.co.monroe.wi.us/home,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+55083,WI,Oconto County,2,https://www.co.oconto.wi.us,,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+55085,WI,Oneida County,7,https://www.co.oneida.wi.us,,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+55087,WI,Outagamie County,3,https://www.outagamie.org/home,,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+55089,WI,Ozaukee County,1,https://www.co.ozaukee.wi.us,,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0
+55091,WI,Pepin County,8,https://www.co.pepin.wi.us,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55093,WI,Pierce County,1,https://www.co.pierce.wi.us,,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+55095,WI,Polk County,6,https://www.polkcountywi.gov/index.php,,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0
+55097,WI,Portage County,4,https://www.co.portage.wi.us/home,,1,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0
+55099,WI,Price County,9,https://co.price.wi.us,,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0
+55101,WI,Racine County,3,https://www.racinecounty.com/home,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+55103,WI,Richland County,6,https://co.richland.wi.us/index.shtml,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55105,WI,Rock County,3,https://www.co.rock.wi.us/home,,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0
+55107,WI,Rusk County,6,https://ruskcounty.org,,1,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0
+55109,WI,St. Croix County,1,https://www.sccwi.gov,,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+55111,WI,Sauk County,4,https://www.co.sauk.wi.us,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+55113,WI,Sawyer County,7,https://www.sawyercountygov.org,,1,0,1,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0
+55115,WI,Shawano County,6,https://www.co.shawano.wi.us,,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0
+55117,WI,Sheboygan County,3,https://www.sheboygancounty.com/home,,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+55119,WI,Taylor County,6,https://co.taylor.wi.us,,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0
+55121,WI,Trempealeau County,6,https://co.trempealeau.wi.us,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55123,WI,Vernon County,6,https://www.vernoncounty.org,,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+55125,WI,Vilas County,9,https://www.vilascountywi.gov,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55127,WI,Walworth County,4,https://www.co.walworth.wi.us,,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0
+55129,WI,Washburn County,7,https://www.co.washburn.wi.us,,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+55131,WI,Washington County,1,https://www.washcowisco.gov,,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+55133,WI,Waukesha County,1,https://www.waukeshacounty.gov,,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+55135,WI,Waupaca County,6,https://www.waupacacounty-wi.gov,,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+55137,WI,Waushara County,6,https://www.co.waushara.wi.us,,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+55139,WI,Winnebago County,3,https://www.co.winnebago.wi.us,,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+55141,WI,Wood County,4,https://www.woodcountywi.gov,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
